@@ -1,0 +1,53 @@
+body {
+    background-color: #82a3c4;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.producto {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.producto p {
+    margin: 5px 0;
+}
+
+.producto hr {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border-color: #ddd;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.marca {
+    font-weight: bold;
+    color: #007bff;
+}
+
+.precio {
+    font-weight: bold;
+    color: #28a745;
+}
+
+.tipo {
+    font-style: italic;
+}
+
+.tono {
+    font-style: italic;
+}
